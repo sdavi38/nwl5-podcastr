@@ -13,15 +13,15 @@
 <p align="center">
   <img  src="https://img.shields.io/static/v1?label=license&message=MIT&color=5965E0&labelColor=121214" alt="License">
   
-  <img src="https://img.shields.io/github/forks/C0bal/reactjs-podcastr-nlw5?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">
+  <img src="https://img.shields.io/github/forks/sdavi38/podcastr-nlw5?label=forks&message=MIT&color=5965E0&labelColor=121214" alt="Forks">
 
-  <img src="https://img.shields.io/github/stars/C0bal/reactjs-podcastr-nlw5?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
+  <img src="https://img.shields.io/github/stars/sdavi38/podcastr-nlw5?label=stars&message=MIT&color=5965E0&labelColor=121214" alt="Stars">
 </p>
 
 <br>
 
 <p align="center">
-  <img alt="Moveit" src=".github/icon.svg" width="120px">
+  <img alt="Moveit" src=".github/logo.svg" width="120px">
 </p>
 
 ## 🧪 Technologies
